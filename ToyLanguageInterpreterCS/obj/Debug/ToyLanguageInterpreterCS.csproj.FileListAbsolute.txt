@@ -1,6 +1,0 @@
-c:\users\cosmin rusu\documents\visual studio 2015\Projects\ToyLanguageInterpreterCS\ToyLanguageInterpreterCS\bin\Debug\ToyLanguageInterpreterCS.exe.config
-c:\users\cosmin rusu\documents\visual studio 2015\Projects\ToyLanguageInterpreterCS\ToyLanguageInterpreterCS\bin\Debug\ToyLanguageInterpreterCS.exe
-c:\users\cosmin rusu\documents\visual studio 2015\Projects\ToyLanguageInterpreterCS\ToyLanguageInterpreterCS\bin\Debug\ToyLanguageInterpreterCS.pdb
-c:\users\cosmin rusu\documents\visual studio 2015\Projects\ToyLanguageInterpreterCS\ToyLanguageInterpreterCS\obj\Debug\ToyLanguageInterpreterCS.csprojResolveAssemblyReference.cache
-c:\users\cosmin rusu\documents\visual studio 2015\Projects\ToyLanguageInterpreterCS\ToyLanguageInterpreterCS\obj\Debug\ToyLanguageInterpreterCS.exe
-c:\users\cosmin rusu\documents\visual studio 2015\Projects\ToyLanguageInterpreterCS\ToyLanguageInterpreterCS\obj\Debug\ToyLanguageInterpreterCS.pdb
