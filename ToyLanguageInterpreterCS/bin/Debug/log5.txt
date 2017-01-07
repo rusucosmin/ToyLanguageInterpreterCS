@@ -1,0 +1,11 @@
++++++++++++++PrgState+++++++++++++
+-------------ExeStack-------------
+readFileStmt(var_f + 2, var_c)
+print(var_c); if(var_c) then readFileStmt(var_f, var_c); print(var_c) else print(0); closeRFileStmt(var_f)
+
+-------------SymTable-------------
+var_f -> 4
+
+--------------Output--------------
+
+
